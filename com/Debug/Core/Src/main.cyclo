@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	2
+../Core/Src/main.c:33:6:init_GPIO	1
+../Core/Src/main.c:41:6:init_TIM2	1
+../Core/Src/main.c:53:6:update_TIM2	1
+../Core/Src/main.c:63:6:generate_waveforms	3
+../Core/Src/main.c:74:6:TIM2_IRQHandler	2
+../Core/Src/main.c:86:6:CDC_Receive_Callback	10
+../Core/Src/main.c:119:5:main	1
+../Core/Src/main.c:137:6:SystemClock_Config	3
+../Core/Src/main.c:170:13:MX_GPIO_Init	1
+../Core/Src/main.c:175:6:Error_Handler	1
